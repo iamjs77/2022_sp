@@ -1,0 +1,5 @@
+package card.validator.server;
+
+public class CardHttpServer {
+
+}

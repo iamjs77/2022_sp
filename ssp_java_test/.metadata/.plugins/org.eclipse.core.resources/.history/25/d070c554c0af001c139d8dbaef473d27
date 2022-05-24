@@ -1,0 +1,11 @@
+package card.validator.client;
+
+import java.io.IOException;
+import java.security.NoSuchAlgorithmException;
+import java.util.Scanner;
+
+public class ValidatorLauncher {
+	public static void main(String[] args) {
+		
+	}
+}

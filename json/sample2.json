@@ -1,0 +1,23 @@
+{
+  "name": "spider",
+  "age": 45,
+  "married": true,
+  "specialty": [
+    "martial art",
+    "gun"
+  ],
+  "vaccine": {
+    "1st": "done",
+    "2nd": "expected"
+  },
+  "children": [
+    {
+      "name": "spiderboy",
+      "age": 10
+    },
+    {
+      "name": "spidergirl",
+      "age": 8
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.eclipse.jetty.client.HttpClient"/>
+<fullyQualifiedTypeName name="com.google.gson.JsonObject"/>
+<fullyQualifiedTypeName name="java.nio.file.Files"/>
+<fullyQualifiedTypeName name="java.nio.file.Paths"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.client.api.Request"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.http.HttpMethod"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.http.HttpHeader"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.client.util.StringContentProvider"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.client.api.ContentResponse"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.Server"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.ServerConnector"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.servlet.ServletHandler"/>
+<fullyQualifiedTypeName name="card.validator.server.CardServerLauncher"/>
+<fullyQualifiedTypeName name="card.validator.server.CardServer"/>
+</qualifiedTypeNameHistroy>

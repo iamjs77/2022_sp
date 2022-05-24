@@ -1,0 +1,31 @@
+package card.validator.client;
+
+import java.io.IOException;
+import java.security.NoSuchAlgorithmException;
+import java.util.Scanner;
+
+public class ValidatorLauncher {
+	public static void main(String[] args) throws IOException, NoSuchAlgorithmException {
+		Validator validator = new Validator();
+		Scanner scanner = new Scanner(System.in);
+		String strInput, strId, strPassword;
+
+		while (true) {
+			if (scanner.hasNext()) {
+				strInput = scanner.nextLine(); // id, password
+				if (strInput.length() < 10) {
+					System.out.println("Wrong ID Password");
+					continue;
+				}
+				strId = strInput.substring(0, 8);
+				strPassword = strInput.substring(9);
+	
+				if (validator.login(strId, strPassword)) {
+					System.out.println("LOGIN SUCCESS");
+				} else {
+					System.out.println("LOGIN FAIL");
+				}
+			}
+		}
+	}
+}

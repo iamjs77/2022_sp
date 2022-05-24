@@ -1,0 +1,13 @@
+
+public class ThreadTest {
+	static Thread timer;
+	static int timerSeq;
+	public static void main(String[] args) {
+		
+		
+	}
+	
+	public static void startTimer(Runnable task) {
+		timer = new Thread(task, "Timer:" + timerSeq++);
+	}
+}

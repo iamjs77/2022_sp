@@ -1,0 +1,5 @@
+package card.validator.utils;
+
+public class Logger {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CardServlet.java&apos; to &apos;Question4/src/card.validator.server&apos;&#x0D;&#x0A;- Original project: &apos;Question3&apos;&#x0D;&#x0A;- Destination element: &apos;Question4/src/card.validator.server&apos;&#x0D;&#x0A;- Original element: &apos;card.validator.server.CardServlet.java&apos;" description="Copy compilation unit" destination="=Question4/src&lt;card.validator.server" element1="/src&lt;card.validator.server{CardServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1625562074884" units="1" version="1.0"/>
+</session>
